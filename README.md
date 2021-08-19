@@ -9,7 +9,7 @@ Clone this repository.
 
 ```bash
 cd ~
-git clone https://github.com/janikvonrotz/nginx-modsecurity-crs.git
+git clone https://github.com/gonhvvjvo/nginx-modsecurity-crs.git
 ```
 
 Sync the submodules.
